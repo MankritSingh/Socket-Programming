@@ -1,4 +1,6 @@
 video:https://www.youtube.com/watch?v=-xKgxqG411c
+// to commincate with other device write this for socket
+// Socket s=new Socket("192.168.12.159",6666);
 //client
 import java.io.*;
 import java.net.*;
